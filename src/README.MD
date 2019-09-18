@@ -1,0 +1,1 @@
+To start with dev profile use command "mvn package -P dev"
